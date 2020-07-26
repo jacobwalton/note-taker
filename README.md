@@ -7,7 +7,7 @@
 
 An easy to use application which allows the user to create and delete notes.
 
-_Deployed app:_ https://hidden-chamber-51396.herokuapp.com/
+_Deployed app:_ https://vast-journey-82352.herokuapp.com/
 # Table of Contents:
 
 - [Installation ](#installation)
